@@ -4,7 +4,7 @@ Ho - There is no relationship with the Chinese Yuan and Bitcoin
 
 Ha - There is a relationship with the Chinese Yuan and Bitcoin
 
-$a = .05$
+a = .05
  
 ### With a low p-value and as depicted in the visuals, we reject the Null Hypothesis.
 
