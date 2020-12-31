@@ -20,5 +20,4 @@ CNY|Chinese Yuan|
 With more time;
  - A longer historical dataset would be nice to use
  - Involve more currencies
- - Filtering out important news releases that had a significant impart on price movement
- - Or, finding a way to utilize these price reversals into a model
+ - Filtering out important news releases that had a significant impact on price movement
